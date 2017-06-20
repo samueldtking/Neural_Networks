@@ -1,5 +1,6 @@
 # Repository of Neural-network algorithms in Tensor Flow using the MNIST dataset including:
-    # Feedforward:
+
+   # Feedforward:
         # Linear regression
         # Logistic regression
         # SVMs
