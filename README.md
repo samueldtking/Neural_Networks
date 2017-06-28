@@ -5,6 +5,6 @@
         # Logistic regression
         # SVMs
    # Recursive networks:
-        # Backpropogated
+        # Backpropogated networks
         # CNN (Convolutional Neural Nets)
         # LSTM (Long Short-Term Memory) 
